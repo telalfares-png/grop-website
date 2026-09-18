@@ -1,0 +1,6 @@
+{
+  "name": "مدير الموظفين",
+  "description": "نظام إدارة الموظفين والسلف والجزاءات وكشوف الحسابات للمدير العام والمشرف والموظف",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
